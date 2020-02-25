@@ -1,0 +1,15 @@
+Full Formula (Pt1 S2)
+Reduced Formula: PtS2
+abc   :   3.580074   3.580074   6.250867
+angles:  90.000000  90.000000 120.000000
+Sites (3)
+  #  SP           a         b        c
+---  ----  --------  --------  -------
+  0  S     0.333333  0.666667  0.19652
+  1  S     0.666667  0.333333  0.80348
+  2  Pt    0         0         0
+
+a*b*c* :  2.026552   2.026552     1
+Système cristalin : trigonal
+Type de maille : hexagonal
+Groupe ponctuel : -3m
